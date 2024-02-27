@@ -1,5 +1,5 @@
 int se =2;
-int buzzer =3;
+int buz =3;
 void setup() {
  Serial.begin(9600);
  pinMode(se,INPUT);
