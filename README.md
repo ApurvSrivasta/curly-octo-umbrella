@@ -9,9 +9,9 @@ out- digital pin 2,
 VCC- 5V,
 GND- GND,
 
-For buzzer:
-Buzzer- Arduino
-positive -digital pin 3
-negative- GND
+
+Buzzer- Arduino:
+positive -digital pin 3,
+negative- GND,
 
 
