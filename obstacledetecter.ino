@@ -1,4 +1,4 @@
-int ir =2;
+int se =2;
 int buzzer =3;
 void setup() {
  Serial.begin(9600);
